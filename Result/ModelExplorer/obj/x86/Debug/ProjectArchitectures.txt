@@ -1,0 +1,4 @@
+C:\Users\yukir\Documents\HoloTutorial211\Result\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\yukir\Documents\HoloTutorial211\Result\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\yukir\Documents\HoloTutorial211\Result\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\yukir\Documents\HoloTutorial211\Result\ModelExplorer\ModelExplorer.csproj;x86
