@@ -209,6 +209,18 @@ Prefab:
 GameObject:
   m_PrefabParentObject: {fileID: 154460, guid: db5d50d60b0863341be4ce64455775a8, type: 2}
   m_PrefabInternal: {fileID: 150882246}
+--- !u!114 &235072804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 235072803}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 620d0af99a37487449bed787b0b9c231, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RotationSensitivity: 10
 --- !u!1001 &561344824
 Prefab:
   m_ObjectHideFlags: 0
@@ -590,6 +602,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   HandDetectedAsset: {fileID: 1000013579737340, guid: 8557f916d161c554f9b5a62e90ca1a94,
     type: 2}
-  ScrollDetectedAsset: {fileID: 0}
+  ScrollDetectedAsset: {fileID: 1000013907852546, guid: d12aabe4460598a40a9fb8ea20371382,
+    type: 2}
   PathingDetectedAsset: {fileID: 0}
   FeedbackParent: {fileID: 1326376815}
